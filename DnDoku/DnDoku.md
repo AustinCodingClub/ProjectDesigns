@@ -16,3 +16,20 @@ Inspired by PokeDoku, this project aims to create a version based on creatures f
 - 12 distinct traits for randomized matrix
 - API access or scraper for DnDBeyond
 - Sourcing media for creature representations
+
+### Frontend Requirements
+- Must be render 3x3 grid
+  - Each row header is a trait
+  - Each column header is a trait
+- Each cell will be a creature. 
+  - Click a cell and type a monster name in it
+  - receive a stream of monster names from the backend
+- All calls to the backend must be made with grpc
+
+### Backend Requirements
+- Must implement grpc controllers
+- Must keep contracts repo up to date with proto files
+- Must store information about user interaction. 
+- Must store information about the creatures
+- Must generate a puzzle daily
+
