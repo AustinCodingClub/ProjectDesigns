@@ -33,3 +33,5 @@ Inspired by PokeDoku, this project aims to create a version based on creatures f
 - Must store information about the creatures
 - Must generate a puzzle daily
 
+### PathDoku??
+- Paizo Community Use Policy more amenable to IP usage for project than WotC.
