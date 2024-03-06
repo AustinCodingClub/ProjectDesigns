@@ -1,0 +1,5 @@
+- Soduku board with dice scattered across
+- a nerdy goblin 
+- a dragon
+- a wizard 
+- soduku board 
